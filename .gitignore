@@ -1,0 +1,7 @@
+Astral Scape/Binaries
+Astral Scape/DerivedDataCache
+Astral Scape/Intermediate
+Astral Scape/Saved
+*.sln
+*.sdf
+*.suo
