@@ -1,0 +1,3 @@
+PC build is only for testing purpose, not for release
+
+Can only use Zoom in function if you have a touch enabled Computer
