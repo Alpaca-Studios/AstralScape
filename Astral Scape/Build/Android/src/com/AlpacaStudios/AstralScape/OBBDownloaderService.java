@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.YourCompany.AstralScape;
+package com.AlpacaStudios.AstralScape;
 
 import com.google.android.vending.expansion.downloader.impl.DownloaderService;
 
@@ -61,6 +61,6 @@ public class OBBDownloaderService extends DownloaderService {
      */
     @Override
     public String getAlarmReceiverClassName() {
-        return com.YourCompany.AstralScape.AlarmReceiver.class.getName();
+        return com.AlpacaStudios.AstralScape.AlarmReceiver.class.getName();
     }
 }

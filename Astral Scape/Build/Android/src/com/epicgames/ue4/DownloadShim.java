@@ -1,10 +1,10 @@
 package com.epicgames.ue4;
 
-import com.YourCompany.AstralScape.OBBDownloaderService;
-import com.YourCompany.AstralScape.DownloaderActivity;
+import com.AlpacaStudios.AstralScape.OBBDownloaderService;
+import com.AlpacaStudios.AstralScape.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.YourCompany.AstralScape.OBBData;
+import com.AlpacaStudios.AstralScape.OBBData;
 
 
 public class DownloadShim

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.YourCompany.AstralScape;
+package com.AlpacaStudios.AstralScape;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 

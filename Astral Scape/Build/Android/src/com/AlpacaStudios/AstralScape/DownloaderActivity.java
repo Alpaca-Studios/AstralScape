@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.YourCompany.AstralScape;
+package com.AlpacaStudios.AstralScape;
 
 import com.android.vending.expansion.zipfile.ZipResourceFile;
 import com.android.vending.expansion.zipfile.ZipResourceFile.ZipEntryRO;
